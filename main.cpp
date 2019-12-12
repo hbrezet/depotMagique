@@ -11,6 +11,7 @@ int main(int argc, char** argv) {
     cout << "j'ajoute un autre truc eh oui" << endl;
     
     cout << "course au push" << endl;
+    cout << "WOAW" << endl;
     
     return 0;
 }
