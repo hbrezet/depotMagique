@@ -10,6 +10,7 @@ int main(int argc, char** argv) {
     cout << "va y avoir un probleme" << endl;
     cout << "j'ajoute un autre truc eh oui" << endl;
     
+    cout << "course au push" << endl;
+    
     return 0;
 }
-
